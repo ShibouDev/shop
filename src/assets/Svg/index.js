@@ -1,3 +1,4 @@
+//ICONS
 import Account from './Account.svg'
 import Call from "./Call.svg"
 import Cart from './Cart.svg'
@@ -12,5 +13,8 @@ import Pinterest from './Pinterest.svg'
 import Telegram from './Telegram.svg'
 import Twitter from './Twitter.svg'
 
-export { Search, Account, Cart, Location, Message, Call, Facebook, Pinterest, Twitter, Instagram, Telegram }
+//UI
+import Bloom from './Bloom.svg'
+
+export { Search, Account, Cart, Location, Message, Call, Facebook, Pinterest, Twitter, Instagram, Telegram, Bloom }
 

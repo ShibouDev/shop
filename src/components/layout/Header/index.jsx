@@ -4,6 +4,7 @@ import Logo from "../../atoms/Logo"
 import * as S from './styled'
 const Header = () => {
     return (
+        <S.Header>
         <Container justifyContent>
             <Logo />
             <S.NavContainer>
@@ -20,6 +21,7 @@ const Header = () => {
                 ))}
             </S.TooltipContainer>
         </Container>
+        </S.Header>
     )
 }
 export default Header

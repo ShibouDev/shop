@@ -1,5 +1,10 @@
 import styled from "styled-components";
 
+export const Header = styled.div`
+width: 100%;
+height: 80px;
+`
+
 export const NavItem = styled.p`
 font-size: 16px;
 font-weight: 400;
